@@ -10,7 +10,7 @@
   excited to keep growing along the way.
 </p>
 
-<h2>Technologies</h2>
+<h2>💻 Technologies</h2>
 
 <h4>
   • TypeScript<br>
