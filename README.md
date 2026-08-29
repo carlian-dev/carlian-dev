@@ -12,7 +12,7 @@
 
 <h2>🛠️ Tech Stack</h2>
 
-<p>
+<h4>
   • TypeScript<br>
   • HTML<br>
   • CSS<br>
@@ -21,6 +21,6 @@
   • PHP<br>
   • Laravel<br>
   • Java
-</p>
+</h4>
 
 
