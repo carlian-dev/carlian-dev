@@ -10,7 +10,7 @@
   excited to keep growing along the way.
 </p>
 
-<h2>🛠️ Tech Stack</h2>
+<h2>Technologies</h2>
 
 <h4>
   • TypeScript<br>
@@ -20,5 +20,6 @@
   • Svelte<br>
   • PHP<br>
   • Laravel<br>
+  • Python<br>
   • Java
 </h4>
