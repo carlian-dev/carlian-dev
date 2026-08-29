@@ -22,5 +22,3 @@
   • Laravel<br>
   • Java
 </h4>
-
-
