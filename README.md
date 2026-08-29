@@ -10,3 +10,17 @@
   excited to keep growing along the way.
 </p>
 
+<h2>🛠️ Tech Stack</h2>
+
+<p>
+  • TypeScript<br>
+  • HTML<br>
+  • CSS<br>
+  • JavaScript<br>
+  • Svelte<br>
+  • PHP<br>
+  • Laravel<br>
+  • Java
+</p>
+
+
