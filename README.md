@@ -18,6 +18,7 @@
   • CSS<br>
   • JavaScript<br>
   • Svelte<br>
+  • Express<br>
   • PHP<br>
   • Laravel<br>
   • Python<br>
