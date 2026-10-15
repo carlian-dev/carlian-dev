@@ -21,6 +21,7 @@
   • Express<br>
   • PHP<br>
   • Laravel<br>
+  • Supabase<br>
   • Python<br>
   • Java
 </h4>
